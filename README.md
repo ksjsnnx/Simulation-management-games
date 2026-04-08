@@ -1,5 +1,5 @@
 # 模拟经营项目（Unity）- 脚本说明与使用指南
-
+演示地址：https://www.bilibili.com/video/BV1K4DLBUEX9/?spm_id_from=333.1387.homepage.video_card.click&vd_source=fb788accbfb25dd98553828fe30890a1
 这是一个基于 Unity 的模拟经营练习项目，核心玩法包含：
 - 购买土地、放置建筑、生产与收获
 - 背包与商品流通
